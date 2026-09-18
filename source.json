@@ -1,0 +1,40 @@
+{
+  "name": "LuxPrompter",
+  "subtitle": "A private teleprompter camera source",
+  "description": "Install and update LuxPrompter through AltStore Classic.",
+  "iconURL": "https://raw.githubusercontent.com/Jhonatan-de-Souza/LuxPrompter-AltStore/main/icon.png",
+  "website": "https://github.com/Jhonatan-de-Souza/LuxPrompter-AltStore",
+  "tintColor": "#7755FF",
+  "apps": [
+    {
+      "name": "LuxPrompter",
+      "bundleIdentifier": "com.jhonatan.LuxPrompter",
+      "developerName": "Jhonatan de Souza",
+      "subtitle": "Record on camera while reading your script.",
+      "localizedDescription": "A local-first camera teleprompter with adjustable text, scrolling speed, normal and Cinematic capture, and on-device video review.",
+      "iconURL": "https://raw.githubusercontent.com/Jhonatan-de-Souza/LuxPrompter-AltStore/main/icon.png",
+      "tintColor": "#7755FF",
+      "category": "photo-video",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "2",
+          "date": "2026-09-18",
+          "localizedDescription": "Moves the prompter flush to the top edge and relocates camera controls to the bottom.",
+          "downloadURL": "https://github.com/Jhonatan-de-Souza/LuxPrompter-AltStore/releases/download/v1.0.1/LuxPrompter.ipa",
+          "size": 801650,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "LuxPrompter uses the camera to record your videos.",
+          "NSMicrophoneUsageDescription": "LuxPrompter records audio with your videos.",
+          "NSPhotoLibraryAddUsageDescription": "LuxPrompter saves completed videos to your Photos library."
+        }
+      }
+    }
+  ],
+  "news": []
+}
