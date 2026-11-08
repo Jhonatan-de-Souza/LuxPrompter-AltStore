@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "5",
+          "date": "2026-11-08",
+          "localizedDescription": "New landscape layout: the script sits in a strip beside the camera and the controls move into a box on the other side.",
+          "downloadURL": "https://github.com/Jhonatan-de-Souza/LuxPrompter-AltStore/releases/download/v1.0.4/LuxPrompter.ipa",
+          "size": 835726,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "4",
           "date": "2026-11-08",
           "localizedDescription": "Adds landscape support: turn the phone sideways to film in landscape.",
