@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "6",
+          "date": "2026-11-11",
+          "localizedDescription": "New Teleprompter Mode: pick Normal or Teleprompter when the app opens. Teleprompter Mode shows the script full screen on black, with mirror flip buttons, tap to play and pause, a 5-second countdown from the top, and on-screen speed and text size buttons.",
+          "downloadURL": "https://github.com/Jhonatan-de-Souza/LuxPrompter-AltStore/releases/download/v1.0.5/LuxPrompter.ipa",
+          "size": 884168,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "5",
           "date": "2026-11-08",
           "localizedDescription": "New landscape layout: the script sits in a strip beside the camera and the controls move into a box on the other side.",
