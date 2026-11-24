@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "7",
+          "date": "2026-11-24",
+          "localizedDescription": "New Reel Mode: record up to 10 minutes as separate takes that join into one video. Tap to record after a 3-second countdown, tap again to stop, flip between the front and back camera between takes, and keep reading your script at the top. Delete a take and the script jumps back to where it started. Save everything as one video.",
+          "downloadURL": "https://github.com/Jhonatan-de-Souza/LuxPrompter-AltStore/releases/download/v1.0.6/LuxPrompter.ipa",
+          "size": 1009169,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "6",
           "date": "2026-11-11",
           "localizedDescription": "New Teleprompter Mode: pick Normal or Teleprompter when the app opens. Teleprompter Mode shows the script full screen on black, with mirror flip buttons, tap to play and pause, a 5-second countdown from the top, and on-screen speed and text size buttons.",
